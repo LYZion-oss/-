@@ -157,7 +157,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 宠爱有家. All rights reserved.</p>
+            <p>&copy; 2024 宠爱有家. 保留所有权利.</p>
           </div>
         </div>
       </footer>
